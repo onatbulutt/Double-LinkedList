@@ -26,4 +26,5 @@ There is sample code in the Main class of the project for creating and displayin
 # Example
 The photo of the output generated in the console when the existing code is run is provided below.
 
-![linkedlist](https://github.com/onatbulutt/Double-LinkedList/assets/155490196/1f059b8a-9976-495b-892e-3c3024b2a5e9)
+![consol](https://github.com/onatbulutt/Double-LinkedList/assets/155490196/8427fa1b-10e2-4a2f-8d29-183083b95056)
+
